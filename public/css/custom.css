@@ -1,0 +1,32 @@
+body{
+    background-color: #D5D8DC !important;
+    padding-bottom: 2rem ;
+}
+.banner img{
+    width: 100%;
+    border-radius: 1rem;
+}
+.pilih-liga img{
+    max-height: 100px;
+}  
+.pilih-liga .card {
+    border-radius: 1rem;
+}
+.product .card{
+    border-radius: 1rem;
+}
+.breadcrumb{
+    background-color: transparent !important;
+    padding: 0 !important;
+    
+}
+.breadcrumb .active {
+    font-weight: bolder;   
+
+}
+.gambar-product{
+    border-radius: 2rem !important;
+}
+.table td{
+    /* border-top-color: black !important; */
+}
