@@ -6,4 +6,4 @@
 <i>Bootstrap</i>
 <i>FontAwasome</i>
 
-<p>*)Assets & Idea from Wachidev Academy</p>
+*)Assets & Idea from Wachidev Academy
